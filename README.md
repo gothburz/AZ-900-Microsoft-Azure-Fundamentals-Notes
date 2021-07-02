@@ -1,0 +1,1 @@
+This repo contains my notes for the AZ-900 Azure Fundamentals exam.
